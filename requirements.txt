@@ -1,0 +1,9 @@
+google-genai
+google-adk
+requests
+beautifulsoup4
+lxml
+playwright
+python-dotenv
+google-cloud-logging
+google-cloud-storage
